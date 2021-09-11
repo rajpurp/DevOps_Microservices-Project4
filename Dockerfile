@@ -7,13 +7,13 @@ WORKDIR /app
 
 ## Step 2:
 # Copy source code to working directory
-COPY . app.py /app/
+COPY . /app/
 
 
 ## Step 3:
 # Install packages from requirements.txt
-RUN pip install --no-cache-dir --upgrade pip==21.2.4 &&\
-	pip install --no-cache-dir --trusted-host pypi.python.org --requirement requirements.txt
+RUN pip install --upgrade pip &&\
+    pip install --trusted-host pypi.python.org -r requirements.txt
 
 # hadolint ignore=DL3013
 
