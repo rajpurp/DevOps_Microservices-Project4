@@ -41,3 +41,7 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
+
+### CircleCI Patch:
+https://app.circleci.com/pipelines/github/rajpurp/DevOps_Microservices-Project4
+
