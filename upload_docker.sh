@@ -6,13 +6,13 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
-dockerpath=rajpurp/devopsproject4
+dockerpath=rajpurp/project4
 
 # Step 2:  
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
 docker login 
-docker image tag demoapp $dockerpath
+docker image tag prakashproject4 $dockerpath
 
 # Step 3:
 # Push image to a docker repository

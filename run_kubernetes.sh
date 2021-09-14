@@ -4,17 +4,17 @@
 
 # Step 1:
 # This is your Docker ID/path
-dockerpath=rajpurp/udacity
+dockerpath=rajpurp/project4
 
 # Step 2
 # Run the Docker Hub container with kubernetes
-#docker pull diptinwm/devopsproject4:latest
-minikube kubectl -- run latest --image-pull-policy=IfNotPresent --image=$dockerpath --port=80
+kubectl run prakashproject --image=$dockerpath --port=80 --labels app=prakashproject
+
 
 # Step 3:
 # List kubernetes pods
-minikube kubectl -- get pods
+kubectl get pod
 
 # Step 4:
 # Forward the container port to a host
-minikube kubectl -- port-forward latest 8000:80
+kubectl port-forward prakashproject 8000:80
