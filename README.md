@@ -1,4 +1,3 @@
-<include a CircleCI status badge, here>
 
 [![CircleCI](https://circleci.com/gh/rajpurp/DevOps_Microservices-Project4/tree/main.svg?style=svg)](https://circleci.com/gh/rajpurp/DevOps_Microservices-Project4/tree/main)
 
@@ -26,7 +25,7 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 ---
 
 ## Setup the Environment
-
+* clon git repo https://github.com/rajpurp/DevOps_Microservices-Project4.git
 * Create a virtualenv and activate it
 * Run `make install` to install the necessary dependencies
 
