@@ -1,0 +1,228 @@
+    1  cd ..
+    2  cd DevOps_Microservices-Project4/
+    3  python3 -m venv ~/.devops
+    4  source ~/.devops/bin/activate
+    5  pip install pylint
+    6  pip install --upgrade pip
+    7  pip install pylint
+    8  pip install black
+    9  pip install pytest
+   10  pip install ipython
+   11  ipython
+   12  ipython
+   13  make install
+   14  make lint
+   15  make install
+   16  make lint
+   17  wget -O /bin/hadolint https://github.com/hadolint/hadolint/releases/download/v1.16.3/hadolint-Linux-x86_64 
+   18  hadolint -v
+   19  wget -O /bin/hadolint https://github.com/hadolint/hadolint/releases/download/v1.16.3/hadolint-Linux-x86_64
+   20  wget -O /bin/hadolint
+   21  weget -o ./bin/hadolint
+   22  wget -o ./bin/hadolint
+   23  wget -O /bin/hadolint
+   24  cd ..
+   25  ls
+   26  mkdir wget -O /bin/hadolint
+   27  mkdir bin
+   28  mkdir bin
+   29  cd bin
+   30  mkdir hadolint
+   31  cd hadolint/
+   32  cd ..
+   33  cd ..
+   34  chmod +x /bin/hadolint
+   35  ls
+   36  cd ..
+   37  mkdir bin
+   38  cd bin
+   39  mkdir hadolint
+   40  cd hadolint/
+   41  cd ..
+   42  cd ..
+   43  chmod +x /bin/hadolint
+   44  ls
+   45  sudo chmod +x /bin/hadolint
+   46  ls -ltr
+   47  cd environment/
+   48  ls -ltr
+   49  cd DevOps_Microservices-Project4/
+   50  ls -ltr
+   51  brew install hadolint
+   52  sudo apt install linuxbrew-wrapper
+   53  curl -fLSs https://circle.ci/cli | bash
+   54  cd ..
+   55  git clone https://github.com/hadolint/hadolint && cd hadolint && stack install
+   56  sudo apt install haskell-stack
+   57  ls -ltr
+   58  hadolint -v
+   59  cd ..
+   60  hadolint -v
+   61  ls -ltr
+   62  chmod +x /bin/hadolint
+   63  cd chmod +x /bin/hadolint
+   64  cd /bin
+   65  ls -ltr
+   66  cd hadolint
+   67  git clone https://github.com/hadolint/hadolint && cd hadolint && stack install
+   68  mkdir hadolint
+   69  sudo mkdir hadolint
+   70  git clone https://github.com/hadolint/hadolint && cd hadolint && stack install
+   71  chmod +x /bin/hadolint
+   72  sudo chmod +x /bin/hadolint
+   73  git clone https://github.com/hadolint/hadolint && cd hadolint && stack install
+   74  chmod 777 hadolint/
+   75  sudo chmod 777 hadolint/
+   76  cd hadolint/
+   77  ls
+   78  ls -ltr
+   79  cd ..
+   80  git clone https://github.com/hadolint/hadolint && cd hadolint && stack install
+   81  sudo git clone https://github.com/hadolint/hadolint && cd hadolint && stack install
+   82  cd ..
+   83  ls -ltr
+   84  cd ..
+   85  cd ..
+   86  cd environment
+   87  cd /environment
+   88  cd ./
+   89  cd ./environment
+   90  cd ~ ./enviroment
+   91  cd ~/enviroment
+   92  cd ~/environment
+   93  ls
+   94  cd DevOps_Microservices-Project4/
+   95  ls -ltr
+   96  chmod +x /bin/hadolint
+   97  sudo chmod +x /bin/hadolint
+   98  sudo wget -O /bin/hadolint https://github.com/hadolint/hadolint/releases/download/v2.6.1/hadolint-Linux-x86_64 &&        chmod +x /bin/hadolint
+   99  sudo wget -O /bin/hadolint 
+  100  sudo wget -O /bin/hadolint https://github.com/hadolint/hadolint/releases/download/v2.6.1/hadolint-Linux-x86_64
+  101  sudo /bin
+  102  sudo cd /bin
+  103  cd ~/bin
+  104  ls
+  105  rm -rf hadolint
+  106  ls -ltr
+  107  cd ~/enviroment
+  108  cd ~/environment
+  109  cd DevOps_Microservices-Project4/
+  110  sudo wget -O /bin/hadolint https://github.com/hadolint/hadolint/releases/download/v2.6.1/hadolint-Linux-x86_64
+  111  sudo cd /bin/hadolint
+  112  docker run --rm -i hadolint/hadolint < Dockerfile
+  113  make lint
+  114  make install 
+  115  make lint
+  116  sudo make lint
+  117   chmod +x ./hadolint
+  118  make install 
+  119  wget -O ./hadolint https://github.com/hadolint/hadolint/releases/download/v1.16.3/hadolint-Linux-x86_64
+  120  chmod +x ./hadolint
+  121  sudo make lint
+  122  hadolint -v
+  123  docker run --rm -i hadolint/hadolint < Dockerfile
+  124  pylint --disable=R,C,W1203 app.py
+  125  cls
+  126  clear
+  127  pylint --disable=R,C,W1203 app.py
+  128  run_docker.sh
+  129  ./run_docker.sh 
+  130  make_prediction.sh
+  131  ./make_prediction.sh 
+  132  ./run_docker.sh
+  133  docker system prune -a
+  134  ./make_prediction.sh
+  135  ./make_prediction.sh
+  136  ./run_docker.sh
+  137  clar
+  138  clear
+  139  ./make_prediction.sh
+  140  docker --version
+  141  ls -ltr
+  142  chmod +x app.py 
+  143  ls -ltr
+  144  docer image ls
+  145  docker image ls
+  146  docker run -it demoapp bash
+  147  docker image ls
+  148  docker run -it demoapp bash
+  149  aws ecr get-login-password --region us-east-2 | docker login --username AWS --password-stdin 303828929336.dkr.ecr.us-east-2.amazonaws.com
+  150  docker build -t udacity .
+  151  docker tag udacity:latest 303828929336.dkr.ecr.us-east-2.amazonaws.com/udacity:latest
+  152  docker push 303828929336.dkr.ecr.us-east-2.amazonaws.com/udacity:latest
+  153  make start-api
+  154  cd ..
+  155  curl -LO https://storage.googleapis.com/kubernetes-release/release/$\(curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt\)/bin/darwin/amd64/kubectl
+  156  cd DevOps_Microservices-Project4/
+  157  curl -LO https://storage.googleapis.com/kubernetes-release/release/$\(curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt\)/bin/darwin/amd64/kubectl
+  158  sysctl -a | grep machdep.cpu.features
+  159  curl -LO "https://storage.googleapis.com/kubernetes-release/release/$(curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt)/bin/darwin/amd64/kubectl"
+  160  curl -LO https://storage.googleapis.com/kubernetes-release/release/`curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt`/bin/linux/amd64/kubectl
+  161  curl -LO https://storage.googleapis.com/kubernetes-release/release/$\(curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt\)/bin/darwin/amd64/kubectl
+  162  sysctl -a | grep machdep.cpu.features
+  163  minicube version
+  164  minikube version
+  165  minitube version
+  166  minikube version
+  167  minikubue start 
+  168  minikubectl version 
+  169  kubectl version
+  170  kubectl get nodes
+  171  minikube start
+  172  python3 -m venv ~/.devops
+  173  source ~/.devops/bin/activate
+  174  ls
+  175  ls -ltr
+  176  chmod 777 *.sh
+  177  ls -ltr
+  178  ./run_kubernetes.sh 
+  179  curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
+  180  sudo install minikube-linux-amd64 /usr/local/bin/minikube
+  181  minikube start
+  182  docker system prune
+  183  docker system prune
+  184  minikube start
+  185  docker system prune
+  186  docker system prune -a
+  187  df -h
+  188  chmod  +x resize.sh 
+  189  ./resize.sh 
+  190  df -h
+  191  exit
+  192  ./resize.sh 
+  193  df -h
+  194  docker system prune -a
+  195  minikube start
+  196  docker system prune -a
+  197  df -h
+  198  ls -ltr
+  199  ./resize.sh 
+  200  ./resize.sh 
+  201  ls -ltr
+  202  rm minikube-linux-amd64 
+  203  ls
+  204  ls -ltr
+  205  df -h
+  206  ./resize.sh 
+  207  ls -ltr
+  208  rm kubectl 
+  209  ls -ltr
+  210  rm '$(curl' 
+  211  ls -ltr
+  212  df -h
+  213  docker system prune -a
+  214  df -h
+  215  history
+  216  minikube config set memory 16384
+  217  sudo install minikube-linux-amd64 /usr/local/bin/minikube
+  218  curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
+  219  sudo install minikube-linux-amd64 /usr/local/bin/minikube
+  220  minikube start
+  221  ls -ltr
+  222  docker system prune
+  223  docker system db
+  224  docker system df
+  225  ls -ltr
+  226  history
+  227  minikube start --memory=16384mb
+  228  history > history.txt
