@@ -1,11 +1,10 @@
  * Debugger is active!
- * Debugger PIN: 423-439-108
-[2021-09-14 17:03:13,884] INFO in app: JSON payload: 
+ * Debugger PIN: 244-025-937
+[2021-09-15 01:39:53,548] INFO in app: JSON payload: 
 {'CHAS': {'0': 0}, 'RM': {'0': 6.575}, 'TAX': {'0': 296.0}, 'PTRATIO': {'0': 15.3}, 'B': {'0': 396.9}, 'LSTAT': {'0': 4.98}}
-[2021-09-14 17:03:13,886] INFO in app: Inference payload DataFrame: 
+[2021-09-15 01:39:53,550] INFO in app: Inference payload DataFrame: 
 {inference_payload}
-[2021-09-14 17:03:13,887] INFO in app: Scaling Payload: 
+[2021-09-15 01:39:53,550] INFO in app: Scaling Payload: 
 {payload}
-[2021-09-14 17:03:13,890] INFO in app: PREDICTION: 
-{prediction}
-172.17.0.1 - - [14/Sep/2021 17:03:13] "POST /predict HTTP/1.1" 200 -
+[2021-09-15 01:39:53,553] INFO in app: Output Prediction : [20.35373177134412]
+172.17.0.1 - - [15/Sep/2021 01:39:53] "POST /predict HTTP/1.1" 200 -
